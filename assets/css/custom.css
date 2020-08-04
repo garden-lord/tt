@@ -1,0 +1,18 @@
+a.social-icons {
+  color: white;
+  padding: 0 0 100px 0;
+  text-align: center;
+}
+.fa-contact-screen {
+  padding: 1rem;
+  border-radius: 50%;
+  transition: 0.3s all ease-in;
+}
+.fa-contact-screen:hover {
+  color: #7f525d;
+  cursor: pointer;
+}
+
+.text-title {
+  color: #322025;
+}
