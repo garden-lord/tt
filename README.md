@@ -12,3 +12,11 @@ python3 -m http.server
 ```
 
 3. Make some changes to `index.html`, refresh your browser
+
+4. Send your changes back to GitHub
+
+```bash
+git add .
+git commit -m"I made some changes"
+git push
+```
